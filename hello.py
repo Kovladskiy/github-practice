@@ -1,2 +1,3 @@
-print('Hello World!')
-print('Arian')
+ def start ():
+    print('hello world') 
+start()
